@@ -37,10 +37,10 @@ The detalied report with the visualization is present in the *Srivatsav_Atla_Clu
 ## Repository Structure
 
 ```plaintext
-├── Srivatsav_Atla_EDA.ipynb                         # Jupyter notebook for Exploratory Data Analysis
+├── Srivatsav_Atla_EDA.ipynb                  # Jupyter notebook for Exploratory Data Analysis
 ├── Srivatsav_Atla_EDA.pdf                    # PDF report with business insights
-├── Srivatsav_Atla_Lookalike.ipynb             # Jupyter notebook explaining the Lookalike Model
-├── Srivatsav_Atla_Lookalike.csv                     # File containing the top 3 lookalike customers with similarity scores
+├── Srivatsav_Atla_Lookalike.ipynb            # Jupyter notebook explaining the Lookalike Model
+├── Srivatsav_Atla_Lookalike.csv              # File containing the top 3 lookalike customers with similarity scores
 ├── Srivatsav_Atla_Clustering.ipynb           # Jupyter notebook with clustering code and visualizations
-├── Srivatsav_Atla_Clustering.pdf            # PDF report with clustering analysis and results
-├── README.md                        # This README file
+├── Srivatsav_Atla_Clustering.pdf             # PDF report with clustering analysis and results
+├── README.md                                 # This README file
